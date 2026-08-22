@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sandra 👋
 
-<!--
-**sandralsx/sandralsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！
 
-Here are some ideas to get you started:
+- 🌱 正在学习：Web 开发与 AI 工具
+- 💻 兴趣方向：前端开发、个人项目与开源
+- 🔭 个人网站：[sandralsx.github.io](https://sandralsx.github.io/)
+- 📫 联系方式：在这里填写邮箱或社交链接
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Featured Projects
+
+- [个人主页](https://github.com/sandralsx/sandralsx.github.io) — 使用 GitHub Pages 构建的个人网站
+- 在这里添加你之后最满意的项目
