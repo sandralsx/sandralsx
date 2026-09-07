@@ -2,10 +2,6 @@
 
 欢迎来到我的 GitHub 主页！
 
-- 🌱 正在学习：Web 开发与 AI 工具
-- 💻 兴趣方向：前端开发、个人项目与开源
-- 🔭 个人网站：[sandralsx.github.io](https://sandralsx.github.io/)
-- 📫 联系方式：在这里填写邮箱或社交链接
 
 ## Skills
 
